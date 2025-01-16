@@ -26,6 +26,7 @@ This project uses Selenium to scrape the top 5 trending topics from Twitter's "W
 ---
 ## .env
 TWITTER_USERNAME=your_twitter_username
+
 TWITTER_PASSWORD=your_twitter_password
 
 PROXYMESH_URL=your_proxymesh_url
